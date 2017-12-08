@@ -279,6 +279,25 @@
        x2="52.833912"
        y2="2.2293305"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#background"
+       id="linearGradient886"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1368367,0,0,0.87963384,63.500003,105.83334)"
+       x1="1.3991548"
+       y1="2.2293305"
+       x2="52.833912"
+       y2="2.2293305" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#foreground"
+       id="linearGradient951"
+       x1="1295.004"
+       y1="168.79253"
+       x2="1354.2371"
+       y2="168.79253"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -288,15 +307,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-328.22292"
+     inkscape:cx="617.27708"
      inkscape:cy="146.39241"
      inkscape:document-units="mm"
      inkscape:current-layer="icons"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1376"
-     inkscape:window-x="3200"
-     inkscape:window-y="27"
+     inkscape:window-height="1403"
+     inkscape:window-x="5760"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -310,7 +329,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -425,7 +444,7 @@
             <polygon
                transform="matrix(0.26458333,0,0,0.26458333,-14.489623,209.56144)"
                id="polygon971"
-               points="110.9,140.3 2.5,75.7 219.3,75.7 "
+               points="219.3,75.7 110.9,140.3 2.5,75.7 "
                class="st4"
                style="opacity:0.9;fill:url(#linearGradient1180);fill-opacity:1;stroke:none" />
             <path
@@ -435,6 +454,31 @@
                inkscape:connector-curvature="0"
                style="opacity:1;fill:url(#linearGradient1160);fill-opacity:1;stroke:none;stroke-width:0.26458332" />
           </g>
+        </g>
+      </g>
+      <g
+         id="github"
+         inkscape:label="github"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <rect
+           style="opacity:1;fill:url(#linearGradient886);fill-opacity:1;stroke:none;stroke-width:0.9554193;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:auto"
+           id="rect884"
+           width="58.472916"
+           height="45.243752"
+           x="65.090614"
+           y="107.79431"
+           inkscape:label="template" />
+        <g
+           transform="matrix(0.33078046,0,0,0.33078046,84.52919,120.89218)"
+           style="fill:none;fill-rule:evenodd"
+           id="g933">
+          <path
+             style="fill:url(#linearGradient951);fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="m 1324.62,140 c -16.355,0 -29.616,13.219 -29.616,29.527 0,13.04 8.485,24.11 20.256,28.01 1.482,0.27 2.02,-0.642 2.02,-1.425 0,-0.7 -0.025,-2.557 -0.04,-5.02 -8.238,1.784 -9.976,-3.958 -9.976,-3.958 -1.347,-3.411 -3.289,-4.317 -3.289,-4.317 -2.689,-1.832 0.204,-1.796 0.204,-1.796 2.973,0.21 4.536,3.043 4.536,3.043 2.642,4.511 6.931,3.208 8.62,2.454 0.269,-1.909 1.033,-3.21 1.88,-3.948 -6.576,-0.745 -13.491,-3.279 -13.491,-14.592 0,-3.223 1.155,-5.858 3.049,-7.922 -0.305,-0.747 -1.322,-3.748 0.289,-7.814 0,0 2.487,-0.794 8.145,3.03 2.362,-0.656 4.896,-0.982 7.415,-0.995 2.515,0.013 5.05,0.339 7.415,0.995 5.655,-3.821 8.136,-3.03 8.136,-3.03 1.616,4.065 0.6,7.07 0.295,7.814 1.898,2.064 3.045,4.7 3.045,7.922 0,11.343 -6.925,13.838 -13.524,14.569 1.064,0.912 2.01,2.713 2.01,5.468 0,3.946 -0.036,7.13 -0.036,8.098 0,0.79 0.533,1.709 2.036,1.421 11.758,-3.913 20.238,-14.971 20.238,-28.01 0,-16.309 -13.262,-29.527 -29.62,-29.527"
+             transform="translate(-1295,-140)"
+             id="path931" />
         </g>
       </g>
       <rect
