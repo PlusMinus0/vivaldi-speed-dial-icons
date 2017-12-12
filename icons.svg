@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="&amp;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -701,15 +700,6 @@
        y1="342.75586"
        x2="-45.756836"
        y2="342.75586"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#foreground"
-       id="linearGradient1560"
-       x1="78.288002"
-       y1="267.39801"
-       x2="728.05298"
-       y2="267.39801"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -1689,10 +1679,9 @@
            transform="translate(86.158581,-0.6729707)"
            id="g1611">
           <g
-             i:knockout="Off"
              id="Brackets"
              transform="matrix(0.04410284,0,0,0.04410284,-73.112477,331.50073)"
-             style="fill:url(#linearGradient1560);fill-opacity:1">
+             style="fill:url(#foreground);fill-opacity:1">
             <path
                id="path1362"
                d="M 78.288,418.646 V 116.149 h 68.572 v 12.575 c -37.437,3.143 -38.919,5.588 -38.919,32.834 v 212.376 c 0,26.896 0.742,28.994 38.919,32.139 v 12.571 H 78.288 Z"
@@ -1720,7 +1709,6 @@
              inkscape:connector-curvature="0"
              style="opacity:0.8;fill:url(#linearGradient1552);fill-opacity:1;stroke-width:0.04410284" />
           <g
-             i:knockout="Off"
              id="Inline_stripes"
              transform="matrix(0.04410284,0,0,0.04410284,-73.112477,331.50073)"
              style="opacity:1;fill:none;fill-opacity:1">
